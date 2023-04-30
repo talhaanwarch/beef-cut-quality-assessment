@@ -1,0 +1,1 @@
+# beef-cut-quality-assessment
